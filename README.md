@@ -1,2 +1,5 @@
-# business-card
-Business Card
+# Business Card
+
+```
+xelatex main.tex
+```
